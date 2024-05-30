@@ -1,0 +1,30 @@
+h1 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+a:visited {
+    color: tomato;
+}
+
+div:hover {
+    color: tomato;
+} 
+
+div{
+    height: 150px;
+    width: 90%;
+}
+
+p {
+    border: 10px solid black;
+    margin: 20px;
+  }
+
+  .rounded {
+    border-radius: 15px;
+  }
+
+  .elliptical {
+    border-radius: 50px / 25px;
+  }
